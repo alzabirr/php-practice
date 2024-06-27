@@ -13,6 +13,4 @@
 
 
 
-print("hello php ok done ");
-
 ?>
